@@ -177,7 +177,7 @@
       'reparación de cerraduras dañadas',
       'copia de llaves con chip',
       'apertura de cajas fuertes',
-      'cerraduras inteligentes'
+      'venta e instalación de cerraduras digitales'
     ];
 
     if (reduceMotion) { out.textContent = words[0]; return; }
